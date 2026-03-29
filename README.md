@@ -1,6 +1,6 @@
 # Multi-threaded Safe Logger
 
-Questo progetto si basa su un sistema che simula più componenti hardware che tentano di scrivere log su una risorsa condivisa (console/file) simultaneamente (tramite **thread, mutex e gestione della concorrenza**).
+Questo progetto si basa su un sistema che simula più componenti (thread) che tentano di scrivere log su una risorsa condivisa (console/file) simultaneamente (tramite **thread, mutex e gestione della concorrenza**).
 
 ---
 
